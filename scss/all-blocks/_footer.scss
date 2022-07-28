@@ -1,0 +1,23 @@
+.site-footer {
+    background: #F2F2F2;
+    height: 240px;
+    padding-top: 81px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer__logo {
+    margin-left: 720px;
+}
+
+.footer__link {
+    margin-top: 24px;
+    margin-left: 685px;
+}
+
+.footer__logo-link + .footer__logo-link {
+    margin-left: 20px;
+}
